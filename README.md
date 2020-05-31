@@ -2,7 +2,7 @@
 CS50x online course by Harvard University submissions
 
 ## Week 0
--Create a Scratch game
+- Create a Scratch game
 ## Week 1
 
 ## Week 2
