@@ -7,5 +7,6 @@ CS50x online course by Harvard University submissions
 - Create a Credit Card Number Validator
 - Create a Mario pyramid builder
 ## Week 2
+- Create a message cypher
 
 ## Week 3
